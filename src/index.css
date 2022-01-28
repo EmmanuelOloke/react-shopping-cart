@@ -17,6 +17,7 @@ h1 {
 
 h2 {
     font-size: 1.2rem;
+    color: #fff;
 }
 
 h3 {
@@ -25,6 +26,7 @@ h3 {
 
 a {
     text-decoration: none;
+    color: #fff;
 }
 
 .row {
@@ -42,7 +44,7 @@ a {
 
 .block {
     border-radius: 0.5rem;
-    background-color: #F0F8FF;
+    background-color: #0066b2;
     padding: 1rem;
     margin: 0.5rem;
 }
