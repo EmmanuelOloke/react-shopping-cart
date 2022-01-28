@@ -22,6 +22,7 @@ h2 {
 
 h3 {
     font-size: 1rem;
+    color: #fff;
 }
 
 a {
@@ -51,4 +52,21 @@ a {
 
 .row.center {
     align-items: center;
+}
+
+img.small {
+    max-height: 10rem;
+    border-radius: 0.3rem;
+}
+
+button {
+    font-size: 0.8rem;
+    padding: 0.2rem;
+    margin: 0.1rem;
+    border-radius: 0.5rem;
+    border: 0.1rem solid #404040;
+    background-color: #f0c040;
+    width: 100%;
+    cursor: pointer;
+    font-weight: bold;
 }
