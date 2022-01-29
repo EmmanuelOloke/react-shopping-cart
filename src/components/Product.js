@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Product(props) {
+export default function Product(props) {
     const { product, onAdd} = props;
     return (
         <div>
@@ -13,5 +13,3 @@ function Product(props) {
         </div>
     )
 }
-
-export default Product;
